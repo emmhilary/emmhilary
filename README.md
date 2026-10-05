@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Emmanuel Hilary 👋
 
-<!--
-**emmhilary/emmhilary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my kitchen.
 
-Here are some ideas to get you started:
+This is where ideas become experiments, experiments become systems, and systems become something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an **AI Infrastructure Engineer** focused on **model serving and inference** building the infrastructure that helps AI models run faster, cheaper, and more reliably.
+
+I’m obsessed with understanding how things work beneath the surface:
+
+* How do we serve models at scale?
+* How do we reduce latency and cost?
+* How do we build reliable systems around AI?
+* How do we make powerful AI accessible?
+
+This is my lab, my playground, my little corner of the internet where I document what I learn, the things I build, the problems I solve, and the experiments that sometimes fail.
+
+I believe curiosity is the beginning of every breakthrough.
+
+Welcome to my kitchen.
+
+Let’s make something happen. ⚡
